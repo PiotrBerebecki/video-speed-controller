@@ -4,7 +4,7 @@ The user can adjust the playback rate by clicking on a bespoke speed controller.
 
 Live version: https://video-speed-controller.herokuapp.com
 
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
+<img src="./src/graphics/screencast.gif" width="400px" height="auto">
 
 ## Tech stack
 * Node

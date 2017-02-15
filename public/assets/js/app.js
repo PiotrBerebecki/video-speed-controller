@@ -8,7 +8,6 @@ speed.addEventListener('click', adjustSpeed);
 
 
 function adjustSpeed(e) {
-  console.count('adjustSpeed');
   const y = e.pageY - this.offsetTop;
   const percent = y / this.offsetHeight;
   const min = 0.4;
